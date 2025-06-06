@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shola Nejo</h1>
+<h1 align="center">Hi 👋, I'm Timothy Nejo</h1>
 <h3 align="center">A dynamic and result-oriented software engineer, dedicated to building perfomant, scalable, secure and innovative software solutions</h3>
 
 - 💬 Ask me about **C#, ASP.NET, Node.js, Express.js.**
